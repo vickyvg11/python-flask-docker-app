@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Welcome to Python Flask Application - Ashok IT"
+    return "Welcome to DevOps Classes.this is Web Application using Python."
 
 
 if __name__ == "__main__":
